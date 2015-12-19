@@ -1,19 +1,19 @@
 {
-	"name": "starise/wp-wrapper-class",
-	"description": "A single class to help you build more advanced custom post types quickly.",
-	"homepage": "https://github.com/starise/wp-wrapper-class",
-	"license": "MIT",
-	"authors": [
-		{
+  "name": "starise/wp-wrapper-class",
+  "description": "A single class to help you build more advanced custom post types quickly.",
+  "homepage": "https://github.com/starise/wp-wrapper-class",
+  "license": "MIT",
+  "authors": [
+    {
       "name": "Andrea Brandi",
       "email": "info@andreabrandi.com",
       "homepage": "http://andreabrandi.com"
     }
-	],
-	"require": {
+  ],
+  "require": {
     "php": ">=5.5"
   },
-	"autoload": {
+  "autoload": {
     "psr-4": {
       "Starise\\WordPress\\": "src/"
     }
