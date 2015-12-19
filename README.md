@@ -34,7 +34,7 @@ wp plugin activate wp-wrapper-class
 
 ## Quick Start
 
-Declare the use of the class in `functions.php`, then register a new post type:
+Declare the use of the class in `functions.php`, then start using the class:
 
 ```php
 use Starise\WordPress\Wrapper as Wrapper;
@@ -44,4 +44,4 @@ function template_path() {
 }
 ```
 
-For more details please [check out the this page](https://roots.io/sage/docs/theme-wrapper/)
+For more details please [check out this page](https://roots.io/sage/docs/theme-wrapper/)
